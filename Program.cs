@@ -80,17 +80,17 @@ namespace HW2
                 EcoLG = "A";
                 EcoGPA = 4;
             }
-            else if (AccPerc >= 80.0)
+            else if (EcoPerc >= 80.0)
             {
                 EcoLG = "B";
                 EcoGPA = 3;
             }
-            else if (AccPerc >= 70.0)
+            else if (EcoPerc >= 70.0)
             {
                 EcoLG = "C";
                 EcoGPA = 2;
             }
-            else if (AccPerc >= 60.0)
+            else if (EcoPerc >= 60.0)
             {
                 EcoLG = "D";
                 EcoGPA = 1;

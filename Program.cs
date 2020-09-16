@@ -4,7 +4,7 @@ namespace HW2
 {
     class Program
     {
-        //Edwin Chen
+        //Edwin Chen 
         static void Main(string[] args)
         {
             string AccLG;
